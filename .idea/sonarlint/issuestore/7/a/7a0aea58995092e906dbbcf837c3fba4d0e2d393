@@ -1,0 +1,21 @@
+
+t
+java:S2755."3Disable access to external entities in XML parsing.(ËíÕüÿÿÿÿJ$291037a0-2cc0-43ac-98ff-be2f20965b86
+o
+java:S2755s"3Disable access to external entities in XML parsing.(ò†ìJ$2f3b11f8-da49-4c19-b71d-545d279d75c6
+w	java:S125"<This block of commented-out lines of code should be removed.(£üÎšJ$e5602947-1d0a-43b8-8ca1-da3160a78f2e
+„	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ñû‰¯J$a192cf43-8637-4a2f-906c-b21571c1216d
+w	java:S125["<This block of commented-out lines of code should be removed.(’îáëJ$f5cc29e8-757a-4b67-87e4-0eb5bd694f33
+}	java:S125‚"<This block of commented-out lines of code should be removed.(ÓÉê¡ıÿÿÿÿJ$68ef6d01-cd00-4fdb-bd04-b25ed8bd8496
+l
+java:S1128"+Remove this unused import 'domain.Student'.(¸óÏÖúÿÿÿÿJ$6546ff3d-efbd-41ce-be9c-7228a268a27a
+w
+java:S1128";Remove this unused import 'validation.ValidationException'.(ï´÷ØJ$e505781d-172d-4c71-9aef-dd4288ef00f1
+_
+java:S1128"$Remove this unused import 'java.io'.(¬›ãDJ$8a10b4ea-231c-4244-a6fc-858b43a2941f
+p
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿJ$cdac79fa-7e3d-48ad-9c2d-a225583748ae
+
+java:S1128">Remove this unused import 'javax.xml.parsers.DocumentBuilder'.(ƒ”¯¹ùÿÿÿÿJ$79215b32-0e86-4397-8318-04ead57a51ef
+s
+java:S1068"2Remove this unused "builderFactory" private field.(®ÊÇàÿÿÿÿÿJ$42eaaf79-fbb3-4d0c-89b2-735f783ed9da
